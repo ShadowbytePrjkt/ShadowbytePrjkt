@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/ShadowBytePrjkt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=BF94FF&center=true&vCenter=true&width=500&lines=BUILDING+TWRP+/+PBRP+TREES;GKI+KERNEL+SPECIALIST;ANDROID+14/15+UPSTREAMING;@ShadowBytePrjkt" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=BF94FF&center=true&vCenter=true&width=500&lines=BUILDING+TWRP+/+PBRP+TREES;GKI+KERNEL+DEV;ANDROID+UPSTREAMING;@ShadowBytePrjkt" alt="Typing SVG" />
   </a>
 </p>
 
