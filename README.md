@@ -1,52 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=BF94FF&height=150&section=header&text=ShadowbytePrjkt&fontSize=70&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=200&section=header&text=Shadowbyte%20Prjkt&fontSize=80&fontAlignY=40&fontColor=BF94FF&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BF94FF&center=true&vCenter=true&width=600&lines=Advanced+Android+Recovery+Dev;PBRP+Official+Maintainer;GKI+Kernel+Specialist;Custom+Device+Trees" alt="Typing SVG" />
+  <a href="https://t.me/ShadowBytePrjkt">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=BF94FF&center=true&vCenter=true&width=500&lines=BUILDING+TWRP+/+PBRP+TREES;GKI+KERNEL+SPECIALIST;ANDROID+14/15+UPSTREAMING;@ShadowBytePrjkt" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🌑 The Lab
-I specialize in the low-level architecture of Android, specifically bridging the gap between hardware and recovery environments. My work focuses on **GKI-compliant** builds and high-performance **PitchBlack Recovery Project** implementations.
+### 🌐 System Overview
+> **Core Focus:** Low-level Android System Engineering & Recovery Architectures.
 
-- 🔭 **Working on:** PBRP/TWRP device trees and GKI kernels.
-- ⚡ **Expertise:** Building recoveries,porting roms and making GKI kernels.
-- 🛠️ **System:** Currently on low end hardware 
-
----
-
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Kernel-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-</p>
+| 📂 Category | Status | Tech Stack |
+| :--- | :--- | :--- |
+| **Recovery Dev** | 🟢 **STABLE** | TWRP, PBRP, OFRP |
+| **GKI Development** | 🟡 **TESTING** | C, GCC, Clang |
+| **Recovery Trees** | 🟢 **ACTIVE** | PBRP , TWRP |
 
 ---
 
-### 📈 Development Metrics
+### ⚡ Current Project Progress
+**Mainstream Recovery Trees**
+- **PBRP Implementation**
+![PBRP Progress](https://geps.dev/progress/90?dangerColor=BF94FF&warningColor=BF94FF&successColor=BF94FF)
+- **TWRP Adaptation**
+![TWRP Progress](https://geps.dev/progress/75?dangerColor=BF94FF&warningColor=BF94FF&successColor=BF94FF)
+
+*Status: Finalizing decryption blobs and GKI-specific boot image headers.*
+
+---
+
+### 📈 Tactical Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowbytePrjkt&show_icons=true&theme=dracula&title_color=BF94FF&icon_color=BF94FF&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowbytePrjkt&layout=compact&theme=dracula&title_color=BF94FF&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowbytePrjkt&show_icons=true&theme=tokyonight&title_color=BF94FF&icon_color=BF94FF&text_color=9ece6a&bg_color=1a1b27&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowbytePrjkt&layout=compact&theme=tokyonight&title_color=BF94FF&text_color=9ece6a&bg_color=1a1b27&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowbytePrjkt&theme=dracula&fire=BF94FF&ring=BF94FF&sideNums=BF94FF&border_radius=10" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowbytePrjkt&theme=tokyonight&fire=BF94FF&ring=BF94FF&sideNums=BF94FF&bg_color=1a1b27&hide_border=true" width="97%" />
 </p>
 
 ---
 
-### 🔗 Get in Touch
+### 📡 System Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowbytePrjkt&bg_color=1a1b27&color=BF94FF&line=BF94FF&point=BF94FF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🔗 Network & Uplink
 <p align="center">
   <a href="https://t.me/andrei0514">
-    <img src="https://img.shields.io/badge/Direct_Message-26A69A?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/DM_DEVELOPER-BF94FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://t.me/ShadowBytePrjkt">
-    <img src="https://img.shields.io/badge/Project_Channel-BF94FF?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/PROJECT_CHANNEL-26A69A?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
