@@ -33,10 +33,7 @@
 ---
 
 ### 📈 Tactical Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowbytePrjkt&show_icons=true&theme=tokyonight&title_color=BF94FF&icon_color=BF94FF&text_color=9ece6a&bg_color=1a1b27&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowbytePrjkt&layout=compact&theme=tokyonight&title_color=BF94FF&text_color=9ece6a&bg_color=1a1b27&hide_border=true" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowbytePrjkt&theme=tokyonight&fire=BF94FF&ring=BF94FF&sideNums=BF94FF&bg_color=1a1b27&hide_border=true" width="97%" />
